@@ -2,9 +2,7 @@ namespace SPAExample
 
 open System
 open WebSharper
-open WebSharper.JavaScript
 open WebSharper.UI.Next.Html
-open WebSharper.JQuery
 open WebSharper.UI.Next
 open WebSharper.UI.Next.Client
 open FSharp.Data
